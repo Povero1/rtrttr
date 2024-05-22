@@ -2452,4 +2452,4 @@ client.on('messageCreate', async (message) => {
 
 
 
-client.login('MTIzNjQyNDIwNjQ4OTYxNjQ0NA.GNjI5T.OUrmgdA4oEZAofpt9DCqvgJLewLws7HMQDnNVg')
+client.login('process.env.token')
